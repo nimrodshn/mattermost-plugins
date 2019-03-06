@@ -51,3 +51,4 @@ Non-production plugins built by Mattermost staff and community.
 - [mattermost-plugin-walltime](https://github.com/mattermost/mattermost-plugin-walltime)
 - [mattermost-plugin-welcomebot](https://github.com/mattermost/mattermost-plugin-welcomebot)
 - [mattermost-plugin-xkcd](https://github.com/techunter/mattermost-xkcd-plugin)
+- [mattermost-plugin-exif](https://github.com/nimrodshn/mattermost-exif-plugin.git)
